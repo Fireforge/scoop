@@ -1,0 +1,18 @@
+{
+    "homepage": "https://www.microsoft.com/net/",
+    "version": "1.0.0",
+    "license": "https://www.microsoft.com/net/dotnet_library_license.htm",
+    "url": [
+        "https://go.microsoft.com/fwlink/?LinkID=809122"
+    ],
+    "hash": [
+        "md5:20f94bcc8a3347bd9a9ca32587d82eae"
+    ],
+    "installer": {
+        "args": [
+            "/quiet",
+            "/norestart"
+        ]
+    }
+    "bin": "bin\\dotnet.exe"
+}
